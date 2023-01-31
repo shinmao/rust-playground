@@ -7,6 +7,7 @@ This repository would include personal practice of some libraries and collection
 * [Rustonomicon](https://doc.rust-lang.org/nomicon/intro.html)
 * [Unsafe Code Guidelines Reference](https://rust-lang.github.io/unsafe-code-guidelines/introduction.html)
 * [The cargo book](https://doc.rust-lang.org/cargo/index.html)
+* [Rust By Example](https://doc.rust-lang.org/rust-by-example/index.html)
 
 ## Panic
 * [Personal Panic Test Cases](https://github.com/shinmao/panic_monster)
